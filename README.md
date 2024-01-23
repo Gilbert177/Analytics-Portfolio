@@ -12,3 +12,5 @@ Riverside City College
 
 ##     Professional Experience 
 
+County of Riverside - Department of Geographic Information Systems   
+Geographic Information Systems Intern 
