@@ -1,6 +1,7 @@
 # Analytics Portfolio
 
 ##        Education 
+
 University of California, Riverside
 - Bachelor of Science - Business Administration: Information Systems & Business Analytics
 
