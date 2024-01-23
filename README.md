@@ -2,7 +2,7 @@
 
 ### Education 
 University of California, Riverside
-- Bachelor of Science - Business Administration : Concentration: Information Systems & Business Analytics
+- Bachelor of Science - Business Administration: Information Systems & Business Analytics
 
 Riverside City College 
 - Associate of Art - Administration & Information Systems
