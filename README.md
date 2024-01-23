@@ -1,5 +1,4 @@
-# Header 1
-Analytics Portfolio
+#### Analytics Portfolio
 
 ##        Education 
 University of California, Riverside
